@@ -15,3 +15,6 @@ Step 4: Frontend Development
 Step 5: Testing Locally --- Run the Flask App: Start the Flask application from the command line: python app.py Access the App: Open your web browser and go to http://127.0.0.1:5000 to access the app. Check Functionality: Enter sample values for the inputs and verify that the app predicts a crop based on the input data.
 
 Screen Shorts :
+<img width="1918" height="967" alt="image" src="https://github.com/user-attachments/assets/baf736ab-a83e-419f-b2ef-c38d8aaf2229" />
+
+<img width="1910" height="949" alt="image" src="https://github.com/user-attachments/assets/6fc6f666-685e-46cb-8c73-dafc4614725c" />
